@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratik Deshmukh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdeshmukh2004&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdeshmukh2004" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikdeshmukh2004&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdeshmukh2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikdeshmukh2004" alt="pratikdeshmukh2004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pratik_2k4" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_2k4?logo=twitter&style=for-the-badge" alt="pratik_2k4" /></a> </p>
-
-- 🔭 I’m currently working on [Flask Panel](flaskpanel.tk)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikdeshmukh2004" alt="pratikdeshmukh2004" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://pratikdeshmukh2004.github.io/My-New-Portfolio/](https://pratikdeshmukh2004.github.io/My-New-Portfolio/)
 
@@ -14,12 +10,10 @@
 
 - 📫 How to reach me **pratikdeshmukhlobhi@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratik_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pratik_2k4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratikdeshmukh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pratikdeshmukh2004" height="30" width="40" /></a>
+<a href="https://twitter.com/pratik_2k4" target="blank"><img align="center" src="https://www.91-cdn.com/hub/wp-content/uploads/2019/02/Twitter-logo.jpg" alt="pratik_2k4" height="50" width="100" /></a>
+  <a href="https://linkedin.com/in/pratikdeshmukh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pratikdeshmukh2004" height="30" width="40" /></a>
 <a href="https://fb.com/pratikdeshmukh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="pratikdeshmukh2004" height="30" width="40" /></a>
 <a href="https://instagram.com/prat1k_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="prat1k_2k4" height="30" width="40" /></a>
 </p>
