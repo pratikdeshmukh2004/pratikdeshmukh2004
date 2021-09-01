@@ -116,7 +116,7 @@
       <br>Audio_Player
 	</td>
 <td align="center" width="96">
-      <a target="_blank" href="https://pratikdeshmukh2004.github.io/audio-player-demo/">
+      <a target="_blank" href="https://pratikdeshmukh2004.github.io/snake-game/">
         <img src="https://img.icons8.com/bubbles/50/000000/play.png" width="40"/>
       </a>
       <br>Snake_Game
