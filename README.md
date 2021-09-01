@@ -97,6 +97,35 @@
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
+>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a target="_blank" href="https://5ef05db7b11b6d6107724e29--react-chat-app-pratik.netlify.app/">
+        <img src="https://img.icons8.com/bubbles/50/000000/chat.png" width="40"/>
+      </a>
+      <br>Chatapp
+	</td>
+<td align="center" width="96">
+      <a target="_blank" href="https://pratikdeshmukh2004.github.io/audio-player-demo/">
+        <img src="https://img.icons8.com/bubbles/50/000000/audio.png" width="40"/>
+      </a>
+      <br>Audio_Player
+	</td>
+<td align="center" width="96">
+      <a target="_blank" href="https://pratikdeshmukh2004.github.io/audio-player-demo/">
+        <img src="https://img.icons8.com/bubbles/50/000000/play.png" width="40"/>
+      </a>
+      <br>Snake_Game
+	</td>
+  </tr>
+</table>
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
 <p align="center">
 	<a href="https://www.facebook.com/pratikdeshmukh2004/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
