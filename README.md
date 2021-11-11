@@ -121,6 +121,12 @@
       </a>
       <br>Snake_Game
 	</td>
+<td align="center" width="96">
+      <a target="_blank" href="https://py-gallery.herokuapp.com/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnCzOmRZmMcePcvPv1O_fwxuRk3lVTtAQdA&usqp=CAU" width="40"/>
+      </a>
+      <br>Py_Gallery
+	</td>
   </tr>
 </table>
 <br>
