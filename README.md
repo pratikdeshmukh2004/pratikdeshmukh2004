@@ -129,7 +129,7 @@
       <br>Py_Gallery
 	</td>
 	<td align="center" width="96">
-      <a target="_blank" href="https://pratikdeshmukh2004.github.io/snake-game/">
+      <a target="_blank" href="https://nextjs-blog-eosin-one.vercel.app/">
         <img src="https://stackideas.cachefly.net/images/apps/2429/logo.png" width="40"/>
       </a>
       <br>Blog_App
