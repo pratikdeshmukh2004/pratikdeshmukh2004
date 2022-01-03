@@ -98,6 +98,8 @@
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
 ><i>Click on ICON to preview.</i>
