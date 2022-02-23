@@ -132,7 +132,7 @@
 	</td>
 	<td align="center" width="96">
       <a target="_blank" href="https://nextjs-blog-eosin-one.vercel.app/">
-        <img src="https://stackideas.cachefly.net/images/apps/2429/logo.png" width="40"/>
+        <img src="https://img.icons8.com/bubbles/50/000000/image.png" width="40"/>
       </a>
       <br>Blog_App
 	</td>
