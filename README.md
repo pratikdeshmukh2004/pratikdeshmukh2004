@@ -1,4 +1,5 @@
 
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=pratikdeshmukh2004&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdeshmukh2004" /> </p>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
@@ -107,7 +108,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a target="_blank" href="https://5ef05db7b11b6d6107724e29--react-chat-app-pratik.netlify.app/">
+      <a target="_blank" href="https://chat-app-pratik.herokuapp.com/">
         <img src="https://img.icons8.com/bubbles/50/000000/chat.png" width="40"/>
       </a>
       <br>Chatapp
