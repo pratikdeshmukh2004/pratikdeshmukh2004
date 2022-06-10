@@ -1,5 +1,6 @@
 
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=pratikdeshmukh2004&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdeshmukh2004" /> </p>
+  
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pratikdeshmukh2004&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdeshmukh2004" /> </p>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
@@ -8,7 +9,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+&nbsp;***About me ....***
 
 ✔ Callme: ***Pratik Deshmukh*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a Ecommerce Customer Service Dashboard for **Leapclub.in**<br>
@@ -23,7 +24,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....***
+&nbsp;***Things I Know ....***
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
@@ -102,7 +103,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" />
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
+&nbsp;***LIVE PROJECTS ....***
 ><i>Click on ICON to preview.</i>
 <br>
 <table>
@@ -144,7 +145,7 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Documentations ....***
+&nbsp;***My Documentations ....***
 ><i>I am trying to learn new things monthly. whenever i learn something new then i am creating a documantion of thant tool. </i>
 <br>
 <table>
@@ -164,7 +165,7 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
+&nbsp;***Let's Connect ....***
 <p align="center">
 	<a href="https://www.facebook.com/pratikdeshmukh2004/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	<a href="https://www.linkedin.com/in/pratik-deshmukh-b2a135185/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
