@@ -21,7 +21,7 @@ const Skills = () => {
   ];
   useEffect(() => {
     axios
-      .get("https:/api.github.com/users/pratikdeshmukh2004/repos?per_page=100")
+      .get("https://api.github.com/users/pratikdeshmukh2004/repos?per_page=100")
       .then((resp) => {
         setprojects(
           resp.data.filter((item) => item.language == active).slice(0, 6)
